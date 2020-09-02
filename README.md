@@ -1,3 +1,5 @@
+Bus Ticket Booking System
+
 Bus ticket booking system is a web based application with a user friendly interface. This project is
 used for bus transportation system in which there is a facility for booking bus seats online by the
 users.
